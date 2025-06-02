@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34321.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tryingButtons", "tryingButtons.vcxproj", "{207FFD96-59DD-400D-A9CB-62C24CD33A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207FFD96-59DD-400D-A9CB-62C24CD33A67}.Debug|x64.ActiveCfg = Debug|x64
+		{207FFD96-59DD-400D-A9CB-62C24CD33A67}.Debug|x64.Build.0 = Debug|x64
+		{207FFD96-59DD-400D-A9CB-62C24CD33A67}.Debug|x86.ActiveCfg = Debug|Win32
+		{207FFD96-59DD-400D-A9CB-62C24CD33A67}.Debug|x86.Build.0 = Debug|Win32
+		{207FFD96-59DD-400D-A9CB-62C24CD33A67}.Release|x64.ActiveCfg = Release|x64
+		{207FFD96-59DD-400D-A9CB-62C24CD33A67}.Release|x64.Build.0 = Release|x64
+		{207FFD96-59DD-400D-A9CB-62C24CD33A67}.Release|x86.ActiveCfg = Release|Win32
+		{207FFD96-59DD-400D-A9CB-62C24CD33A67}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7212B945-0E2A-469B-9F6B-D1D906899006}
+	EndGlobalSection
+EndGlobal
